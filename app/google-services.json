@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "86910638371",
+    "firebase_url": "https://supplies-list-8b712-default-rtdb.firebaseio.com",
+    "project_id": "supplies-list-8b712",
+    "storage_bucket": "supplies-list-8b712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86910638371:android:37a050b849f7973d1cd496",
+        "android_client_info": {
+          "package_name": "com.example.clinicscheduling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86910638371-ammlpajmi468u74089nf876mco8c00vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOhkfoAlCPiycPqiU_CtZ3ij5ZOo-TyBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86910638371-ammlpajmi468u74089nf876mco8c00vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86910638371:android:c2a0b1392167a0b11cd496",
+        "android_client_info": {
+          "package_name": "org.lu.clinicscheduling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86910638371-ammlpajmi468u74089nf876mco8c00vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOhkfoAlCPiycPqiU_CtZ3ij5ZOo-TyBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86910638371-ammlpajmi468u74089nf876mco8c00vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
